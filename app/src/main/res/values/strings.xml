@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="devinez">Dévinez</string>
+    <string name="score" translatable="false">Score :</string>
+    <string name="scoreValeur" translatable="false">0</string>
+    <string name="Tentatives" translatable="false">0</string>
+    <string name="text" translatable="false">...</string>
+    <string name="str_nombre_a_deviner" translatable="false">Nombre à déviner</string>
+    <string name="str_valeur_sup" translatable="false">Valeur supérieure"</string>
+    <string name="str_valeur_inf" translatable="false">Valeur inférieure"</string>
+    <string name="str_bravo" translatable="false">Bravo, vous avez gagné</string>
+    <string name="str_nouvel_essai" translatable="false">Nouvel essai</string>
+</resources>
